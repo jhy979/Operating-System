@@ -1,4 +1,2 @@
 # Operating-System
-핀토스 구현
-
-세마포어
+학교 과제로 진행한 pintos os 프로젝트입니다.
